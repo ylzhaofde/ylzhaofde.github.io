@@ -220,7 +220,7 @@ pages = {723--754},
 
 * Huan-Yan Jian, Ting-Zhu Huang, Xi-Le Zhao, **Yong-Liang Zhao**, A fast second-order accurate difference schemes for time distributed-order and Riesz space fractional diffusion equations, _Journal of Applied Analysis and Computation_, 9 (2019) 1359-1392. [[link]](http://www.jaac-online.com/article/doi/10.11948/2156-907X.20180247)
 
-* **Yongliang Zhao**, Peiyong Zhu, Xianming Gu, Xile Zhao, Huanyan Jian, An implicit integration factor method for a kind of spatial fractional diffusion equations, _The Second International Conference on Physics, Mathematics and Statistics_, 1324 (2019) 012030. <a href="javascript:toggleBibtex('zhao2019implicit')" class="textlink">[BibTeX]</a> [[link]](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012030/meta) [[code]](https://ylzhaofde.github.io/codes/ICPMS2019 conference-IIF-Python codes.zip)
+* **Yongliang Zhao<sup><span style="color:red">*</span></sup>**, Peiyong Zhu, Xianming Gu, Xile Zhao, Huanyan Jian, An implicit integration factor method for a kind of spatial fractional diffusion equations, _The Second International Conference on Physics, Mathematics and Statistics_, 1324 (2019) 012030. <a href="javascript:toggleBibtex('zhao2019implicit')" class="textlink">[BibTeX]</a> [[link]](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012030/meta) [[code]](https://ylzhaofde.github.io/codes/ICPMS2019 conference-IIF-Python codes.zip)
 
 <div id="bib_zhao2019implicit" class="BibTeX noshow">
 <pre>
