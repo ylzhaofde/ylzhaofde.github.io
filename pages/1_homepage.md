@@ -270,7 +270,7 @@ pages = {723--754},
 
 * 2019.09-2020.09: Numerical Analysis group, [University of Innsbruck](https://www.uibk.ac.at/); visiting Ph. D. student supported by CSC (Supervisor: [Prof. Alexander Ostermann](https://www.uibk.ac.at/mathematik/na/team/ostermann/))
 
-* 2015.09-2017.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/); Master student in Computational Mathematics (Supervisor: [Prof. Ting-Zhua Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2015.09-2017.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/); Master student in Computational Mathematics (Supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 
 * 2011.09-2015.06: School of Information Engineering, [Lanzhou City University](http://www.lzcu.edu.cn/), Bachelor student in Mathematics and Applied Mathematics
