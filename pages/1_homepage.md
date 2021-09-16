@@ -293,9 +293,9 @@ pages = {723--754},
 
 * Fourth-order finite difference scheme with boundary value methods for space fractional diffusion equation (Contributed talk, 25 min) - The IMACS 2016 World Congress (IMACS 2016), Xiamen University, Xiamen, China, December, 2016. [[Slide]](https://ylzhaofde.github.io/Technique reports/report in Xiamen2016.pdf)
 
-* A second-order implicit difference method for time-space advection-diffusion equation, invited report in Neijiang Normal University, November 12, 2016. [[Slide]](https://ylzhaofde.io/Technique reports/fast_secondTSADE.pdf)
+* A second-order implicit difference method for time-space advection-diffusion equation, invited report in Neijiang Normal University, November 12, 2016. [[Slide]](https://ylzhaofde.github.io/Technique reports/fast_secondTSADE.pdf)
 
-* A low-rank Lie-Trotter splitting approach for nonlinear fractional complex Ginzburg-Landau equations (25分钟口头报告)  - 第一届川渝地区分数阶微分方程会议（线上），西南财经大学，2020年11月。[[Slide]](https://ylzhaofde.io/Technique reports/DLK_FGL_report.pdf)
+* A low-rank Lie-Trotter splitting approach for nonlinear fractional complex Ginzburg-Landau equations (25分钟口头报告)  - 第一届川渝地区分数阶微分方程会议（线上），西南财经大学，2020年11月。[[Slide]](https://ylzhaofde.github.io/Technique reports/DLK_FGL_report.pdf)
 
 <!-- #### Reviewer
 
