@@ -262,19 +262,22 @@ pages = {723--754},
 
 ---
 
-### Experiences 
+# Experiences 
 
-* 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
+* 2021.07-Current: Work at the School of Mathematical Sciences, [Sicuan Normal University](http://english.sicnu.edu.cn/EnglishIndex/webindex), Chengdu, Sichuan 610068, P.R. China.
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2017.09-2021.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/); Ph. D. student in Mathematics (Supervisor: [Prof. Pei-Yong Zhu](https://www.math.uestc.edu.cn/info/1081/2023.htm))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2019.09-2020.09: Numerical Analysis group, [University of Innsbruck](https://www.uibk.ac.at/); visiting Ph. D. student supported by CSC (Supervisor: [Prof. Alexander Ostermann](https://www.uibk.ac.at/mathematik/na/team/ostermann/))
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+* 2015.09-2017.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/); Master student in Computational Mathematics (Supervisor: [Prof. Ting-Zhua Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm))
+
+
+* 2011.09-2015.06: School of Information Engineering, [Lanzhou City University](http://www.lzcu.edu.cn/), Bachelor student in Mathematics and Applied Mathematics
 
 ---
 
-### Awards and Honors
+<!-- # Awards and Honors
 
 *  Academic Rookie, UESTC, 2021
 *  National Scholarship for Ph. D. student, UESTC, 2020
@@ -282,9 +285,9 @@ pages = {723--754},
 *  Special Postgraduate Scholarship of Science, UESTC, 2019
 *  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
----
+--- -->
 
-### Academic Activities
+# Academic Activities
 
 #### Reports
 
@@ -292,28 +295,23 @@ pages = {723--754},
 
 * 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-#### Reviewer
+<!-- #### Reviewer
 
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
 *  Signal Processing: Image Communication
-*  ACML 2021
+*  ACML 2021 
+-->
 
 #### Co-authors
 
-*  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+*  [Prof. Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang)
+*  [Prof. Alexander Ostermann](https://www.uibk.ac.at/mathematik/na/team/ostermann/)
+*  [Assistant Prof. Xian-Ming Gu](https://www.researchgate.net/profile/Xian-Ming-Gu)
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
-*  [Prof. Qibin Zhao](https://qibinzhao.github.io)
-*  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
-*  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
-*  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
-*  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
-*  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
-*  [Dr. Meng Ding](https://mengding56.github.io)
-*  [Dr. Jie Lin](https://jielin96.github.io/)
-*  [Dr. Wei He](https://sites.google.com/site/rshewei/home)
+*  [Assistant Prof. Meng Li](https://www.researchgate.net/profile/Meng-Li-180)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
