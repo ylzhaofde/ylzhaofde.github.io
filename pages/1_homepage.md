@@ -131,13 +131,13 @@ function toggleBibtex(articleid) {
 
 * Lin Guo, Xi-Le Zhao, Xian-Ming Gu, **Yong-Liang Zhao**, Yu-Bang Zheng, Ting-Zhu Huang, Three-dimensional fractional total variation regularized Tensor optimized model for image deblurring, _Applied Mathematics and Computation_, 404 (2021) 126224. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0096300321003143)
 
-* Xian‐Ming Gu, Hai‐Wei Sun, Yanzhi Zhang, **Yong‐Liang Zhao<sup><span style="color:red">*</span></sup>**, Fast implicit difference schemes for time‐space fractional diffusion equations with the integral fractional Laplacian, _Mathematical Methods in the Applied Sciences_, 44 (2021) 441-463. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6746)
+* Xian‐Ming Gu, Hai‐Wei Sun, Yanzhi Zhang, **Yong‐Liang Zhao<sup><span style="color:blue">*</span></sup>**, Fast implicit difference schemes for time‐space fractional diffusion equations with the integral fractional Laplacian, _Mathematical Methods in the Applied Sciences_, 44 (2021) 441-463. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.6746)
 
 * Huan-Yan Jian, Ting-Zhu Huang, Xian-Ming Gu, Xi-Le Zhao, **Yong-Liang Zhao**, Fast second-order implicit difference schemes for time distributed-order and Riesz space fractional diffusion-wave equations, _Computers & Mathematics with Applications_, 94 (2021) 136-154. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0898122121001760)
 
 * Xian-Ming Gu, Ting-Zhu Huang, **Yong-Liang Zhao**, Pin Lyu, Bruno Carpentieri, A fast implicit difference scheme for solving the generalized time-space fractional diffusion equations with variable coefficients, _Numerical Methods for Partial Differential Equations_, 37 (2021) 1136-1162. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/num.22571)
 
-* Xian-Ming Gu, **Yong-Liang Zhao<sup><span style="color:red">*</span></sup>**, Xi-Le Zhao, Bruno Carpentieri, Yu-Yun Huang, A note on parallel preconditioning for the all-at-once solution of Riesz fractional diffusion equations, _Numerical Mathematics: Theory, Methods and Applications_, 14 (2021) 893-919. [[link]](http://www.global-sci.com/intro/article_detail/nmtma/19523.html)
+* Xian-Ming Gu, **Yong-Liang Zhao<sup><span style="color:blue">*</span></sup>**, Xi-Le Zhao, Bruno Carpentieri, Yu-Yun Huang, A note on parallel preconditioning for the all-at-once solution of Riesz fractional diffusion equations, _Numerical Mathematics: Theory, Methods and Applications_, 14 (2021) 893-919. [[link]](http://www.global-sci.com/intro/article_detail/nmtma/19523.html)
 
 ### <span style="color:blue">**_2020_**</span>
 
@@ -220,7 +220,7 @@ pages = {723--754},
 
 * Huan-Yan Jian, Ting-Zhu Huang, Xi-Le Zhao, **Yong-Liang Zhao**, A fast second-order accurate difference schemes for time distributed-order and Riesz space fractional diffusion equations, _Journal of Applied Analysis and Computation_, 9 (2019) 1359-1392. [[link]](http://www.jaac-online.com/article/doi/10.11948/2156-907X.20180247)
 
-* **Yongliang Zhao<sup><span style="color:red">*</span></sup>**, Peiyong Zhu, Xianming Gu, Xile Zhao, Huanyan Jian, An implicit integration factor method for a kind of spatial fractional diffusion equations, _The Second International Conference on Physics, Mathematics and Statistics_, 1324 (2019) 012030. <a href="javascript:toggleBibtex('zhao2019implicit')" class="textlink">[BibTeX]</a> [[link]](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012030/meta) [[code]](https://ylzhaofde.github.io/codes/ICPMS2019 conference-IIF-Python codes.zip)
+* **Yongliang Zhao<sup><span style="color:blue">*</span></sup>**, Peiyong Zhu, Xianming Gu, Xile Zhao, Huanyan Jian, An implicit integration factor method for a kind of spatial fractional diffusion equations, _The Second International Conference on Physics, Mathematics and Statistics_, 1324 (2019) 012030. <a href="javascript:toggleBibtex('zhao2019implicit')" class="textlink">[BibTeX]</a> [[link]](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012030/meta) [[code]](https://ylzhaofde.github.io/codes/ICPMS2019 conference-IIF-Python codes.zip)
 
 <div id="bib_zhao2019implicit" class="BibTeX noshow">
 <pre>
@@ -256,7 +256,7 @@ pages = {723--754},
 </pre>
 </div>
 
-* Meng Li, **Yong-Liang Zhao<sup><span style="color:red">*</span></sup>**, A fast energy conserving finite element method for the nonlinear fractional Schrödinger equation with wave operator, _Applied Mathematics and Computation_, 338 (2018) 758-773. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0096300318304983)
+* Meng Li, **Yong-Liang Zhao<sup><span style="color:blue">*</span></sup>**, A fast energy conserving finite element method for the nonlinear fractional Schrödinger equation with wave operator, _Applied Mathematics and Computation_, 338 (2018) 758-773. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0096300318304983)
 
 * Huan-Yan Jian, Ting-Zhu Huang, Xi-Le Zhao, **Yong-Liang Zhao**, A fast implicit difference scheme for a new class of time distributed-order and space fractional diffusion equations with variable coefficients, _Advances in Difference Equations_, 2018 (2018) 205. [[link]](https://link.springer.com/article/10.1186/s13662-018-1655-2)
 
