@@ -56,7 +56,7 @@ function toggleBibtex(articleid) {
 
 ### <span style="color:blue">**_2021_**</span>
 
-* **Yong-Liang Zhao**, Alexander Ostermann, Xian-Ming Gu, A low-rank Lie-Trotter splitting approach for nonlinear fractional complex Ginzburg-Landau equations, _Journal of Computational Physics_ 446 (2021) 110652. <a href="javascript:toggleBibtex('zhao2021low')" class="textlink">[BibTeX]</a> [[link]](https://www.sciencedirect.com/science/article/pii/S0021999121005477)
+* **Yong-Liang Zhao**, Alexander Ostermann, Xian-Ming Gu, A low-rank Lie-Trotter splitting approach for nonlinear fractional complex Ginzburg-Landau equations, _Journal of Computational Physics_ 446 (2021) 110652. <a href="javascript:toggleBibtex('zhao2021low')" class="textlink">[BibTeX]</a> [[link]](https://www.sciencedirect.com/science/article/pii/S0021999121005477) [[slide]](https://ylzhaofde.github.io/Technique reports/DLK_FGL_report.pdf)
 
 <div id="bib_zhao2021low" class="BibTeX noshow">
 <pre>
@@ -159,7 +159,7 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
-* **Yong-Liang Zhao**, Ting-Zhu Huang, Xian-Ming Gu, Wei-Hua Luo, A fast second-order implicit difference method for time-space fractional advection-diffusion equation, _Numerical Functional Analysis and Optimization_, 41 (2020) 257-293. <a href="javascript:toggleBibtex('zhao2020fast')" class="textlink">[BibTeX]</a> [[link]](https://www.tandfonline.com/doi/abs/10.1080/01630563.2019.1627369)
+* **Yong-Liang Zhao**, Ting-Zhu Huang, Xian-Ming Gu, Wei-Hua Luo, A fast second-order implicit difference method for time-space fractional advection-diffusion equation, _Numerical Functional Analysis and Optimization_, 41 (2020) 257-293. <a href="javascript:toggleBibtex('zhao2020fast')" class="textlink">[BibTeX]</a> [[link]](https://www.tandfonline.com/doi/abs/10.1080/01630563.2019.1627369) [[slide]](https://ylzhaofde.github.io/Technique reports/fast_secondTSADE.pdf)
 
 <div id="bib_zhao2020fast" class="BibTeX noshow">
 <pre>
