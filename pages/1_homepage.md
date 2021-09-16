@@ -266,14 +266,14 @@ pages = {723--754},
 
 * 2021.07-Current: School of Mathematical Sciences, [Sicuan Normal University](http://english.sicnu.edu.cn/EnglishIndex/webindex), Chengdu, Sichuan 610068, P.R. China; staff.
 
-* 2017.09-2021.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, Sichuan 611731, P.R. China; Ph. D. student in Mathematics. (Supervisor: [Prof. Pei-Yong Zhu](https://www.math.uestc.edu.cn/info/1081/2023.htm))
+* 2017.09-2021.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, Sichuan 611731, P.R. China; PhD student in Mathematics. (Supervisor: [Prof. Pei-Yong Zhu](https://www.math.uestc.edu.cn/info/1081/2023.htm))
 
-* 2019.09-2020.09: Numerical Analysis group, [University of Innsbruck](https://www.uibk.ac.at/), Technikerstraße 13, 6020 Innsbruck, Austria; visiting Ph. D. student supported by [CSC](https://www.csc.edu.cn/). (Supervisor: [Prof. Alexander Ostermann](https://www.uibk.ac.at/mathematik/na/team/ostermann/))
+* 2019.09-2020.09: Numerical Analysis group, [University of Innsbruck](https://www.uibk.ac.at/), Technikerstraße 13, 6020 Innsbruck, Austria; visiting PhD student supported by [CSC](https://www.csc.edu.cn/). (Supervisor: [Prof. Alexander Ostermann](https://www.uibk.ac.at/mathematik/na/team/ostermann/))
 
-* 2015.09-2017.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/); Master student in Computational Mathematics. (Supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 2015.09-2017.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, Sichuan 611731, P.R. China; Master student in Computational Mathematics. (Supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 
-* 2011.09-2015.06: School of Information Engineering, [Lanzhou City University](http://www.lzcu.edu.cn/), Bachelor student in Mathematics and Applied Mathematics
+* 2011.09-2015.06: School of Information Engineering, [Lanzhou City University](http://www.lzcu.edu.cn/), Lanzhou, Gansu 730070, P.R. China; Bachelor student in Mathematics and Applied Mathematics
 
 ---
 
