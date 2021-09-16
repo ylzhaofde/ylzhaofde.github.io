@@ -291,9 +291,11 @@ pages = {723--754},
 
 #### Reports
 
-* 02/2021: "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
+* Fourth-order finite difference scheme with boundary value methods for space fractional diffusion equation (Contributed talk, 25 min) - The IMACS 2016 World Congress (IMACS 2016), Xiamen University, Xiamen, China, December, 2016. [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
-* 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+* A second-order implicit difference method for time-space advection-diffusion equation, invited report in Neijiang Normal University, November 12, 2016. [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+
+* A low-rank Lie-Trotter splitting approach for nonlinear fractional complex Ginzburg-Landau equations (25分钟口头报告)  - 第一届川渝地区分数阶微分方程会议（线上），西南财经大学，2020年11月。
 
 <!-- #### Reviewer
 
