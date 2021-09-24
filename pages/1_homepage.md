@@ -230,7 +230,7 @@ pages = {723--754},
 
 # Experiences 
 
-* 2021.07-Current: School of Mathematical Sciences, [Sicuan Normal University](http://english.sicnu.edu.cn/EnglishIndex/webindex), Chengdu, Sichuan 610068, P.R. China; staff.
+* 2021.07-Now: School of Mathematical Sciences, [Sichuan Normal University](http://english.sicnu.edu.cn/EnglishIndex/webindex), Chengdu, Sichuan 610068, P.R. China; staff.
 
 * 2017.09-2021.06: School of Mathematical Sciences, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, Sichuan 611731, P.R. China; PhD student in Mathematics. (Supervisor: [Prof. Pei-Yong Zhu](https://www.math.uestc.edu.cn/info/1081/2023.htm))
 
@@ -284,6 +284,7 @@ Member of the _UESTC-Math Test Matrix Library_, please see [https://www.research
 *  [Assistant Prof. Xian-Ming Gu](https://www.researchgate.net/profile/Xian-Ming-Gu)
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
 *  [Assistant Prof. Meng Li](https://www.researchgate.net/profile/Meng-Li-180)
+*  [Prof. Haiwei Sun](https://www.fst.um.edu.mo/personal/hsun/)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
