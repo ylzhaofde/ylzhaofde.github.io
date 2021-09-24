@@ -48,11 +48,11 @@ function toggleBibtex(articleid) {
 
 # Biography
  
-<br>I am working at the School of Mathematical Sciences, Sicuan Normal University, Chengdu, Sichuan 610068, P.R. China. I focus on the fast and parallel numerical methods (maybe temporal or/and spatial non-uniform meshes) with low storage requirement for time or/and space fractional differential equations (e.g., advection-diffusion equations, Schrödinger equation, Allen-Cahn equation, Black-Scholes Model, etc.). Discussions will be highly welcome. <br> <br> **Email:** <ylzhaofde@sina.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com.hk/citations?user=x3E2s2oAAAAJ&hl=zh-CN)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yong-Liang-Zhao)  &emsp; [GitHub](https://github.com/ylzhaofde) <br> **More about me:** [CV](https://www.researchgate.net/profile/Yong-Liang-Zhao) <br><br> | &emsp;![image](https://ylzhaofde.github.io/images/self1.jpg) &emsp; |
+<br>I am working at the School of Mathematical Sciences, Sicuan Normal University, Chengdu, Sichuan 610068, P.R. China. I focus on the fast and parallel numerical methods (maybe temporal or/and spatial non-uniform meshes) with low storage requirement for time or/and space fractional differential equations (e.g., advection-diffusion equations, Schrödinger equation, Allen-Cahn equation, Black-Scholes Model, etc.). Discussions will be highly welcome. <br> <br> **Email:** <ylzhaofde@sina.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com.hk/citations?user=x3E2s2oAAAAJ&hl=zh-CN)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yong-Liang-Zhao)  &emsp; [GitHub](https://github.com/ylzhaofde) <br> **More about me:** CV (under construction) <br><br> | &emsp;![image](https://ylzhaofde.github.io/images/self1.jpg) &emsp; |
 
 ---
 
-# Selected articles
+# Selected publications
 
 ### <span style="color:blue">**_2021_**</span>
 
