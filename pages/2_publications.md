@@ -182,7 +182,7 @@ function toggleBibtex(articleid) {
 
 ### <span style="color:blue">**_2019_**</span>
 
-* **Yong-Liang Zhao**, Pei-Yong Zhu, Xian-Ming Gu, Xi-Le Zhao, Jianxiong Cao, A limited-memory block bi-diagonal Toeplitz preconditioner for block lower triangular Toeplitz system from time–space fractional diffusion equation, _Journal of Computational and Applied Mathematics_, 362 (2019) 99-115. <a href="javascript:toggleBibtex('zhao2019limited')" class="textlink">[BibTeX]</a> [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0377042719302547) [[slide]](https://ylzhaofde.github.io/Technique reports/SK2_BLTT_report.pdf)
+* **Yong-Liang Zhao<sup><span style="color:blue">*</span></sup>**, Pei-Yong Zhu, Xian-Ming Gu<sup><span style="color:blue">*</span></sup>, Xi-Le Zhao, Jianxiong Cao, A limited-memory block bi-diagonal Toeplitz preconditioner for block lower triangular Toeplitz system from time–space fractional diffusion equation, _Journal of Computational and Applied Mathematics_, 362 (2019) 99-115. <a href="javascript:toggleBibtex('zhao2019limited')" class="textlink">[BibTeX]</a> [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0377042719302547) [[slide]](https://ylzhaofde.github.io/Technique reports/SK2_BLTT_report.pdf)
 
 <div id="bib_zhao2019limited" class="BibTeX noshow">
 <pre>
